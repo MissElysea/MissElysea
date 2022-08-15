@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MissElysea!
 
-- 👀 I’m interested in learning ALL things code!
+- 👀 I’m interested in ALL things code!
 - 🌱 I’m new to Software Engineering, but definitely not a rookie.
 - 💞️ I’m looking to collaborate with others to become more knowledgeable on different programming languages, and to possibly network.
 - 📫 Reach out to me on LinkedIn @Elysea Crawford I could use new connections.
