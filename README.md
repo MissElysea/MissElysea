@@ -1,12 +1,12 @@
 # Hi, I'm Elysea! 👩🏽‍💻👋🏽
 
-### const aboutMe = {
-### name: "Elysea",
-### pronouns: ["she", "her"],
-### student: true,
-### preferredTechStack: ["mongodb", "express", "react", "node"]
-### canUse: ["javascript", "python"]
-### }
+#### const aboutMe = {
+#### name: "Elysea",
+#### pronouns: ["she", "her"],
+#### student: true,
+#### preferredTechStack: ["mongodb", "express", "react", "node"]
+#### canUse: ["javascript", "python"]
+#### }
 
 #### I enjoy tackling challenging problems and I'm always excited to work together and gain knowledge from others!
 
