@@ -8,6 +8,8 @@
 ### canUse: ["javascript", "python"]
 ### }
 
+#### I enjoy tackling challenging problems and I'm always excited to work together and gain knowledge from others!
+
 # Let's Connect:
 
 https://www.linkedin.com/in/elyseacrawford
