@@ -1,6 +1,4 @@
-# Hi, I'm Elysea! 👩🏽‍💻👋🏽
-
-<style>H1{color:Purple;}</style>
+# Hi, I'm @@Elysea@@! 👩🏽‍💻👋🏽
 
 I'm a Software Engineer, and I've got skills in developing killer full-stack web applications. You name it, I can build it! From the back-end magic with Node.js and Express.js to creating mind-blowing user interfaces using React.js, I've got it covered.
 
