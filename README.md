@@ -4,7 +4,7 @@
 #### name: "Elysea",
 #### pronouns: ["she", "her"],
 #### student: true,
-#### preferredTechStack: ["mongodb", "express", "react", "node"]
+#### preferredTechStack: ["mongodb", "express", "react", "node"],
 #### canUse: ["javascript", "python"]
 #### }
 
