@@ -3,7 +3,7 @@
 ``` const aboutMe = {
 name: "Elysea",
 pronouns: ["she", "her"],
-graduated: true,
+BootcampGraduate: true,
 preferredTechStack: ["mongodb", "express", "react", "node"],
 canUse: ["javascript"]
 }
