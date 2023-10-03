@@ -3,9 +3,9 @@
 ``` const aboutMe = {
 name: "Elysea",
 pronouns: ["she", "her"],
-student: true,
+graduated: true,
 preferredTechStack: ["mongodb", "express", "react", "node"],
-canUse: ["javascript", "python"]
+canUse: ["javascript"]
 }
 ```
 
